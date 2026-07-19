@@ -1,4 +1,4 @@
-# AI Chatbot-
+# AI Chatbot
 
 A production-ready, beginner-friendly AI chatbot powered by [Groq](https://groq.com)'s
 ultra-fast inference API. Streaming responses, conversation history, clean UI,
