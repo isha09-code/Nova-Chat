@@ -76,7 +76,7 @@ the server whenever you save a file (uses Node's built-in `--watch`).
 1. Send "Hello, who are you?" — you should see a typing indicator, then streamed text.
 2. Send a follow-up like "What did I just ask you?" — confirms conversation memory works.
 3. Click **Clear** — confirms history resets.
-4. Refresh the page mid-conversation — confirms `localStorage` persistence.
+4. Refresh the page mid-conversation — confirms `localStorage` persistence..
 
 **API test with curl** (server must be running):
 ```bash
